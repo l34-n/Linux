@@ -1,6 +1,6 @@
 ----
 <div align="Center"> 
-<a href="https://github.com/l34-n/Powershell/blob/main/Linux.png"><img src="https://github.com/l34-n/Powershell/blob/main/Linux.png">
+<a href="https://github.com/l34-n/Linux/blob/main/Linux.png"><img src="https://github.com/l34-n/Linux/blob/main/Linux.png">
 </div> 
   
 ----
